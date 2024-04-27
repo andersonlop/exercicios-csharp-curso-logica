@@ -1,0 +1,16 @@
+C:\Cursos\CSharp\exercicios-csharp\uri1041\uri1041\bin\Debug\net5.0\uri1041.exe
+C:\Cursos\CSharp\exercicios-csharp\uri1041\uri1041\bin\Debug\net5.0\uri1041.deps.json
+C:\Cursos\CSharp\exercicios-csharp\uri1041\uri1041\bin\Debug\net5.0\uri1041.runtimeconfig.json
+C:\Cursos\CSharp\exercicios-csharp\uri1041\uri1041\bin\Debug\net5.0\uri1041.runtimeconfig.dev.json
+C:\Cursos\CSharp\exercicios-csharp\uri1041\uri1041\bin\Debug\net5.0\uri1041.dll
+C:\Cursos\CSharp\exercicios-csharp\uri1041\uri1041\bin\Debug\net5.0\ref\uri1041.dll
+C:\Cursos\CSharp\exercicios-csharp\uri1041\uri1041\bin\Debug\net5.0\uri1041.pdb
+C:\Cursos\CSharp\exercicios-csharp\uri1041\uri1041\obj\Debug\net5.0\uri1041.csproj.AssemblyReference.cache
+C:\Cursos\CSharp\exercicios-csharp\uri1041\uri1041\obj\Debug\net5.0\uri1041.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CSharp\exercicios-csharp\uri1041\uri1041\obj\Debug\net5.0\uri1041.AssemblyInfoInputs.cache
+C:\Cursos\CSharp\exercicios-csharp\uri1041\uri1041\obj\Debug\net5.0\uri1041.AssemblyInfo.cs
+C:\Cursos\CSharp\exercicios-csharp\uri1041\uri1041\obj\Debug\net5.0\uri1041.csproj.CoreCompileInputs.cache
+C:\Cursos\CSharp\exercicios-csharp\uri1041\uri1041\obj\Debug\net5.0\uri1041.dll
+C:\Cursos\CSharp\exercicios-csharp\uri1041\uri1041\obj\Debug\net5.0\ref\uri1041.dll
+C:\Cursos\CSharp\exercicios-csharp\uri1041\uri1041\obj\Debug\net5.0\uri1041.pdb
+C:\Cursos\CSharp\exercicios-csharp\uri1041\uri1041\obj\Debug\net5.0\uri1041.genruntimeconfig.cache
