@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercicios-beecrowd1114/1.0.0": {
+        "runtime": {
+          "Exercicios-beecrowd1114.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicios-beecrowd1114/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
