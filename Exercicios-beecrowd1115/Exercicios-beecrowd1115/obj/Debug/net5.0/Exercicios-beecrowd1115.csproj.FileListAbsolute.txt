@@ -1,0 +1,16 @@
+C:\Cursos\CSharp\exercicios-csharp\Exercicios-beecrowd1115\Exercicios-beecrowd1115\bin\Debug\net5.0\Exercicios-beecrowd1115.exe
+C:\Cursos\CSharp\exercicios-csharp\Exercicios-beecrowd1115\Exercicios-beecrowd1115\bin\Debug\net5.0\Exercicios-beecrowd1115.deps.json
+C:\Cursos\CSharp\exercicios-csharp\Exercicios-beecrowd1115\Exercicios-beecrowd1115\bin\Debug\net5.0\Exercicios-beecrowd1115.runtimeconfig.json
+C:\Cursos\CSharp\exercicios-csharp\Exercicios-beecrowd1115\Exercicios-beecrowd1115\bin\Debug\net5.0\Exercicios-beecrowd1115.runtimeconfig.dev.json
+C:\Cursos\CSharp\exercicios-csharp\Exercicios-beecrowd1115\Exercicios-beecrowd1115\bin\Debug\net5.0\Exercicios-beecrowd1115.dll
+C:\Cursos\CSharp\exercicios-csharp\Exercicios-beecrowd1115\Exercicios-beecrowd1115\bin\Debug\net5.0\ref\Exercicios-beecrowd1115.dll
+C:\Cursos\CSharp\exercicios-csharp\Exercicios-beecrowd1115\Exercicios-beecrowd1115\bin\Debug\net5.0\Exercicios-beecrowd1115.pdb
+C:\Cursos\CSharp\exercicios-csharp\Exercicios-beecrowd1115\Exercicios-beecrowd1115\obj\Debug\net5.0\Exercicios-beecrowd1115.csproj.AssemblyReference.cache
+C:\Cursos\CSharp\exercicios-csharp\Exercicios-beecrowd1115\Exercicios-beecrowd1115\obj\Debug\net5.0\Exercicios-beecrowd1115.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CSharp\exercicios-csharp\Exercicios-beecrowd1115\Exercicios-beecrowd1115\obj\Debug\net5.0\Exercicios-beecrowd1115.AssemblyInfoInputs.cache
+C:\Cursos\CSharp\exercicios-csharp\Exercicios-beecrowd1115\Exercicios-beecrowd1115\obj\Debug\net5.0\Exercicios-beecrowd1115.AssemblyInfo.cs
+C:\Cursos\CSharp\exercicios-csharp\Exercicios-beecrowd1115\Exercicios-beecrowd1115\obj\Debug\net5.0\Exercicios-beecrowd1115.csproj.CoreCompileInputs.cache
+C:\Cursos\CSharp\exercicios-csharp\Exercicios-beecrowd1115\Exercicios-beecrowd1115\obj\Debug\net5.0\Exercicios-beecrowd1115.dll
+C:\Cursos\CSharp\exercicios-csharp\Exercicios-beecrowd1115\Exercicios-beecrowd1115\obj\Debug\net5.0\ref\Exercicios-beecrowd1115.dll
+C:\Cursos\CSharp\exercicios-csharp\Exercicios-beecrowd1115\Exercicios-beecrowd1115\obj\Debug\net5.0\Exercicios-beecrowd1115.pdb
+C:\Cursos\CSharp\exercicios-csharp\Exercicios-beecrowd1115\Exercicios-beecrowd1115\obj\Debug\net5.0\Exercicios-beecrowd1115.genruntimeconfig.cache
