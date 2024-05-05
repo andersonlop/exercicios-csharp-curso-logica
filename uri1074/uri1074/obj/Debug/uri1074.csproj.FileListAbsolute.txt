@@ -1,0 +1,7 @@
+C:\Cursos\curso-csharp-logica-de-programacao\uri1074\uri1074\bin\Debug\uri1074.exe.config
+C:\Cursos\curso-csharp-logica-de-programacao\uri1074\uri1074\bin\Debug\uri1074.exe
+C:\Cursos\curso-csharp-logica-de-programacao\uri1074\uri1074\bin\Debug\uri1074.pdb
+C:\Cursos\curso-csharp-logica-de-programacao\uri1074\uri1074\obj\Debug\uri1074.csproj.AssemblyReference.cache
+C:\Cursos\curso-csharp-logica-de-programacao\uri1074\uri1074\obj\Debug\uri1074.csproj.CoreCompileInputs.cache
+C:\Cursos\curso-csharp-logica-de-programacao\uri1074\uri1074\obj\Debug\uri1074.exe
+C:\Cursos\curso-csharp-logica-de-programacao\uri1074\uri1074\obj\Debug\uri1074.pdb
