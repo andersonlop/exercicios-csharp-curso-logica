@@ -1,0 +1,7 @@
+C:\Cursos\curso-csharp-logica-de-programacao\uri1073\uri1073\bin\Debug\uri1073.exe.config
+C:\Cursos\curso-csharp-logica-de-programacao\uri1073\uri1073\bin\Debug\uri1073.exe
+C:\Cursos\curso-csharp-logica-de-programacao\uri1073\uri1073\bin\Debug\uri1073.pdb
+C:\Cursos\curso-csharp-logica-de-programacao\uri1073\uri1073\obj\Debug\uri1073.csproj.AssemblyReference.cache
+C:\Cursos\curso-csharp-logica-de-programacao\uri1073\uri1073\obj\Debug\uri1073.csproj.CoreCompileInputs.cache
+C:\Cursos\curso-csharp-logica-de-programacao\uri1073\uri1073\obj\Debug\uri1073.exe
+C:\Cursos\curso-csharp-logica-de-programacao\uri1073\uri1073\obj\Debug\uri1073.pdb
