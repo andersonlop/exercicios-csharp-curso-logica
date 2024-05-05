@@ -1,0 +1,14 @@
+C:\Users\ander\source\repos\uri1072\uri1072\bin\Debug\net8.0\uri1072.exe
+C:\Users\ander\source\repos\uri1072\uri1072\bin\Debug\net8.0\uri1072.deps.json
+C:\Users\ander\source\repos\uri1072\uri1072\bin\Debug\net8.0\uri1072.runtimeconfig.json
+C:\Users\ander\source\repos\uri1072\uri1072\bin\Debug\net8.0\uri1072.dll
+C:\Users\ander\source\repos\uri1072\uri1072\bin\Debug\net8.0\uri1072.pdb
+C:\Users\ander\source\repos\uri1072\uri1072\obj\Debug\net8.0\uri1072.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\source\repos\uri1072\uri1072\obj\Debug\net8.0\uri1072.AssemblyInfoInputs.cache
+C:\Users\ander\source\repos\uri1072\uri1072\obj\Debug\net8.0\uri1072.AssemblyInfo.cs
+C:\Users\ander\source\repos\uri1072\uri1072\obj\Debug\net8.0\uri1072.csproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\uri1072\uri1072\obj\Debug\net8.0\uri1072.dll
+C:\Users\ander\source\repos\uri1072\uri1072\obj\Debug\net8.0\refint\uri1072.dll
+C:\Users\ander\source\repos\uri1072\uri1072\obj\Debug\net8.0\uri1072.pdb
+C:\Users\ander\source\repos\uri1072\uri1072\obj\Debug\net8.0\uri1072.genruntimeconfig.cache
+C:\Users\ander\source\repos\uri1072\uri1072\obj\Debug\net8.0\ref\uri1072.dll
