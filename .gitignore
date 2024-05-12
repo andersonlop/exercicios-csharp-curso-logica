@@ -1,5 +1,10 @@
 .vs
 .cs
 .cache
+.assets.cache
+.nuget.cache
 .editorconfig
+.GeneratedMSBuildEditorConfig.editorconfig
 .json
+.csproj.nuget.dgspec.json
+.assets.json
