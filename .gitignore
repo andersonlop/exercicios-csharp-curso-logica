@@ -8,3 +8,6 @@
 .json
 .csproj.nuget.dgspec.json
 .assets.json
+\obj
+.csproj.nuget.g.props
+.csproj.nuget.g.targets
